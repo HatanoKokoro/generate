@@ -9,6 +9,7 @@ public class classTest {
 		MyFreeMarker my = new MyFreeMarker();
 		try {
 			my.CreateFile("test", "Artoria", "com", "cs");
+			
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

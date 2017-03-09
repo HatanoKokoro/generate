@@ -18,7 +18,7 @@
                   </a>
                   <ul class="sub">
                       <li><a class="" href="">首页</a></li>
-                      <li><a class="" href="test/tolist">test</a></li>
+                      <li><a class="" href="test/toList">test</a></li>
                      
                   </ul>
               </li>

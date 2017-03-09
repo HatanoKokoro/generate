@@ -105,7 +105,7 @@
                        <li class="dropdown">
                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                                <img src="static/img/admin.jpg" alt="">
-                               <span class="username">Jhon Doe</span>
+                               <span class="username">Nero Claudius</span>
                                <b class="caret"></b>
                            </a>
                            <ul class="dropdown-menu extended logout">

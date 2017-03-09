@@ -4637,4 +4637,17 @@ margin-right: 21px;
 .d-sel-filter span {
     margin-right: 10px;
 }
-
+.pagebody{
+	margin-left: 20px;
+ 	margin-right: 20px;
+}
+.fixed-table-body{
+	margin-left: 20px;
+ 	margin-right: 20px;
+}
+.pagination-detail{
+	margin-left: 20px;
+}
+.pagination{
+  	margin-right: 20px;
+}
